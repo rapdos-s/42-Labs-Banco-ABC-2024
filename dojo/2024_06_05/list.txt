@@ -8,9 +8,9 @@ OK: Função: Cria o banco de dados
 
 OK: Criar tabelas (cadetes, projetos)
 OK: Função: Retorna nome das tabelas
-  : Teste: Verifica se o nome das tabelas estão certos
+OK: Teste: Verifica se o nome das tabelas estão certos
 
-  : Criar campos em cadetes (login, name)
+OK: Criar campos em cadetes (login, name)
   : Função: Retorna nome dos campos
   : Teste: Verifica se os campos de cadete estão corretos
 
