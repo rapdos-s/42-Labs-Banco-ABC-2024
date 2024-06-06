@@ -1,0 +1,14 @@
+services:
+  projeto-dojo:
+    image: image-dojo
+    build:
+      context: ./projeto
+      dockerfile: Dockerfile
+    networks: 
+      - dojo
+    volumes:
+      - ./volumes:/app/volumes
+
+networks: 
+  dojo: 
+    driver: bridge
