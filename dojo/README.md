@@ -1,5 +1,5 @@
 # 🥋 O que é o dojo
-Dojo tem o foco em construir na prática uma resolução de problema através de Mob Programming. A ideia é aprender durante o processo, tanto hard quanto soft skills e não em ter a melhor solução.
+A ideia dos dojos propostos é nivelar o conhecimento das stacks que serão necessarias no desenvolvimento do labs ABC através de Mob Programming.
 
 `Dojo 00` [The Baby Steps Game](2024_06_04/README.md)
 
